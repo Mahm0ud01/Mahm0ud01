@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-label="Mahmoud Mamdouh, Front-End and Back-End Developer">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c9687f"/><stop offset="1" stop-color="#8e3b55"/></linearGradient></defs>
+<style>.s{font-family:'Segoe UI', Helvetica, Arial, sans-serif;text-anchor:middle}.m{font-family:Consolas, Menlo, 'DejaVu Sans Mono', monospace;text-anchor:middle}</style>
+<path d="M0 0H1000V215C820 270 690 180 480 205S150 285 0 225Z" fill="url(#g)"/>
+<text x="500" y="105" class="s" font-size="64" font-weight="700" fill="#ffffff">Mahmoud Mamdouh</text>
+<text x="500" y="155" class="s" font-size="23" fill="#ffffff">Front-End Developer | Back-End Developer | Web Creator</text>
+<text x="500" y="296" class="m" font-size="26" font-weight="700" fill="#d9607f">Building thoughtful digital experiences</text>
+</svg>

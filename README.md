@@ -3,12 +3,13 @@
 <img src="./banner.svg" alt="Mahmoud Mamdouh - Front-End and Back-End Developer" width="100%">
 
 <a href="mailto:Mahm0ud94287@gmail.com"><img src="./gmail.svg" alt="Gmail" height="36"></a>
+<a href="https://www.instagram.com/m_h_m_o_u_d_"><img src="./instagram.svg" alt="Instagram" height="36"></a>
 
 </div>
 
 ## About Me
 
-<img src="./about.svg" alt="Name: Mahmoud Mamdouh. Role: Front-End and Back-End Developer. Location: Egypt. Email: Mahm0ud942870@gmail.com .Instgram:m_h_m_o_u_d_" width="100%">
+<img src="./about.svg" alt="Name: Mahmoud Mamdouh. Role: Front-End and Back-End Developer. Location: Egypt. Email: Mahm0ud942870@gmail.com" width="100%">
 
 ## Skills
 

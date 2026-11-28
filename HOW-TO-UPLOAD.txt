@@ -1,0 +1,12 @@
+GITHUB CERTIFICATES PACKAGE
+
+1) Extract this ZIP file.
+2) Upload the two folders `certificates` and `assets` to the ROOT of your GitHub profile repository
+   (the same repository that contains your profile README.md).
+3) Open CERTIFICATIONS_SECTION.md, copy its entire contents.
+4) Open your existing README.md and replace its old Certifications section with the copied section.
+   Keep the rest of your README unchanged.
+5) Commit changes.
+
+The Arabic duplicate of the Responsible AI certificate was intentionally left out, as requested.
+The SVG files are designed preview cards; clicking each card opens the original PDF certificate.

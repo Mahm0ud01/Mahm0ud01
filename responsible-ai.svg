@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#101827"/><stop offset="1" stop-color="#172b46"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#e05b70" stop-opacity=".95"/><stop offset="1" stop-color="#9bd1ff" stop-opacity=".65"/>
+  </linearGradient>
+</defs>
+<rect width="900" height="340" rx="26" fill="url(#bg)"/>
+<rect x="0" y="0" width="12" height="340" rx="6" fill="url(#glow)"/>
+<circle cx="790" cy="95" r="115" fill="#e05b70" opacity=".08"/>
+<circle cx="790" cy="95" r="75" fill="none" stroke="#e05b70" stroke-width="2" opacity=".5"/>
+<circle cx="790" cy="95" r="58" fill="none" stroke="#e05b70" stroke-width="1" opacity=".35"/>
+<text x="42" y="62" class="label" fill="#e05b70" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="3">CERTIFICATE 01</text>
+<text x="42" y="112" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="22" font-weight="600">MAHMOUD MAMDOUH</text>
+<text x="42" y="185" class="title">Towards Responsible AI in</text><text x="42" y="227" class="title">Education</text>
+<text x="42" y="292" fill="#a9b9cc" font-family="Arial,sans-serif" font-size="17">AI in Education  •  2 Hours</text>
+<text x="42" y="320" fill="#8295ad" font-family="Arial,sans-serif" font-size="14">Mahara-Tech (ITI)  |  24 Nov 2026  |  Verification: 0JLEt3KVKn</text>
+<circle cx="790" cy="95" r="34" fill="#e05b70" opacity=".16"/>
+<path d="M773 95 l12 12 24 -27" fill="none" stroke="#e05b70" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

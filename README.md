@@ -14,3 +14,54 @@
 ## Skills
 
 <img src="./skills.svg" alt="HTML, CSS, JavaScript, React, Node.js, REST APIs, MySQL, Git" width="100%">
+
+
+
+# 👨‍💻 Mahmoud Mamdouh
+### Front-End & Back-End Developer | AI Enthusiast
+
+Welcome to my GitHub Profile!
+
+I'm a Computer Science student interested in Web Development, Artificial Intelligence, and building useful applications.
+
+---
+
+## 🏆 Certifications
+
+### 1. Towards Responsible AI in Education
+- **Platform:** Mahara-Tech (ITI)
+- **Duration:** 2 Hours
+- **Date:** 24 November 2026
+- **Verification Code:** `0JLEt3KVKn`
+
+### 2. The Complete Node.js Course (RESTful Web Services with Node.js, Express, and MongoDB)
+- **Platform:** Mahara-Tech (ITI)
+- **Duration:** 8 Hours, 5 Minutes
+- **Date:** 28 November 2026
+- **Verification Code:** `YljmxOB1Mo`
+
+---
+
+## 💻 Skills & Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- C++
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+
+- SecureChat – AI Chat & Ethical Hacking Tools
+
+---
+
+## 📫 Contact
+
+- GitHub: [Mahm0ud01](https://github.com/Mahm0ud01)
